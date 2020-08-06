@@ -1,0 +1,26 @@
+#he{
+	width: 100%;
+	height: 900px;
+	background-color: #0012FF;
+}
+#a{
+	width: 20%;
+	height: 300px;
+	background-color: #FFEA00;
+	margin-top: 300px;
+	float: left;
+}
+#ar{
+	width: 60%;
+	height: 300px;
+	background-color: #056424;
+	margin-top: 300px;
+	float: left;
+}
+#art{
+	width: 20%;
+	height: 300px;
+	background-color: #FF0048;
+	margin-top: 300px;
+	float: left;
+}

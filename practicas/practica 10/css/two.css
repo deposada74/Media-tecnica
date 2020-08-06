@@ -1,0 +1,39 @@
+*{
+	background-color: blue;
+}
+#cabeza{
+	width: 100%;
+	height: 100px;
+	font: left;
+	background-color: green;
+	float: left;
+}
+#navegacion{
+	width: 98%;
+	height: 30px;
+	background-color: purple;
+	margin:0 auto;
+	margin-top: 65px;
+}
+#secion{
+	width: 68.4%;
+	height: 300px;
+	background-color: pink;
+	margin-top: 15px;
+	float: left;
+}
+#publicidad{
+	width: 30%;
+	height: 300px;
+	background-color: #A3FFFA;
+	margin-top: 15px;
+	float: left;
+	margin-left: 20px;
+}
+#pie{
+	width: 100%;
+	height: 30px;
+	background-color: orange;
+	margin-top: 10px;
+	float: left;
+}

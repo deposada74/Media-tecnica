@@ -1,0 +1,117 @@
+*{
+	background-color: red;
+}
+#na{
+	width: 100%;
+	height: 35px;
+	background-color: #1E00FF;
+	font: left;
+}
+#ao{
+	width: 19%;
+	height: 20px;
+	background-color: #1EFF00;
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+#at{
+	width: 19%;
+	height: 20px;
+	background-color: #1EFF00;
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+#ath{
+	width: 19%;
+	height: 20px;
+	background-color: #1EFF00;
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+#af{
+	width: 19%;
+	height: 20px;
+	background-color: #1EFF00;
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+#afi{
+	width: 19%;
+	height: 20px;
+	background-color: #1EFF00;
+	float: left;
+	margin-top: 7px;
+	margin-left: 10px;
+}
+#he{
+	width: 100%;
+	height: 300px;
+	margin-top: 15px;
+	background-color: #1E00FF;
+}
+#hs{
+	width: 70%;
+	height: 280px;
+	background-color: #33FF59;
+	float: left;
+	margin-top: 10px;
+	margin-left: 13px;
+}
+#ha{
+	width: 20%;
+	height: 87px;
+	background-color: #33FF59;
+	margin-top: 10px;
+	margin-left: 80px;
+	float: left;
+}
+#har{
+	width: 20%;
+	height: 87px;
+	background-color: #33FF59;
+	margin-top: 10px;
+	margin-left: 80px;
+	float: left;
+}
+#hart{
+	width: 20%;
+	height: 87px;
+	background-color: #33FF59;
+	margin-top: 10px;
+	margin-left: 80px;
+	float: left;
+}
+#m{
+	width: 100%;
+	height: 500px;
+	background-color: #1E00FF;
+	margin-top: 15px;
+}
+#ma{
+	width: 20%;
+	height: 480px;
+	margin-top: 15px;
+	margin-left: 7px; 
+	float:left;
+	background-color: #33FF59;
+}
+#mas{
+	width: 50%;
+	height: 480px;
+	margin-top: 15px;
+	margin-left: 20px; 
+	float:left;
+	background-color: #33FF59;
+}
+#mar{
+	width: 20%;
+	height: 480px;
+	margin-top: 15px;
+	margin-right: 20px; 
+	float:right;
+	background-color: #33FF59;
+}

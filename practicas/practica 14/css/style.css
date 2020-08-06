@@ -1,0 +1,16 @@
+.cabeza{
+	width: 100%;
+	height: 150px;
+	background-color: #38F3FF;
+}
+.content{
+	width: 100%;
+	height: 150px;
+	background-color: blue;
+	float: left;
+}
+.div{
+	width: 100%;
+	height: 150px;
+	background-color: orange;
+}
